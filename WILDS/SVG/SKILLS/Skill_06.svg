@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2500,0)">
+        <g id="Skill_06" transform="matrix(1,0,0,1,500,0)">
+            <g>
+                <g id="color_02" transform="matrix(1.01333,0,0,1.01333,-26.8267,-0.16)">
+                    <path d="M2087,34.5L2087,64.5L2064.5,87L2034.5,87L2012,64.5L2012,34.5L2034.5,12L2064.5,12L2087,34.5Z" style="fill:rgb(110,90,56);"/>
+                </g>
+                <g id="color_01" transform="matrix(0.76,0,0,0.76,492.38,12.38)">
+                    <path d="M2087,34.5L2087,64.5L2064.5,87L2034.5,87L2012,64.5L2012,34.5L2034.5,12L2064.5,12L2087,34.5Z" style="fill:rgb(129,108,63);"/>
+                </g>
+            </g>
+            <g>
+                <g id="shadow" transform="matrix(1,0,0,1,-500,0)">
+                    <path d="M2531,29L2569,29L2569,60L2557,74L2543,74L2531,60L2531,29Z" style="fill:rgb(27,27,27);stroke:rgb(27,27,27);stroke-width:7px;"/>
+                </g>
+                <g id="color_021" serif:id="color_02" transform="matrix(1,0,0,1,-500,0)">
+                    <path d="M2531,29L2569,29L2569,60L2557,74L2543,74L2531,60L2531,29Z" style="fill:rgb(125,109,92);"/>
+                </g>
+                <g id="color_011" serif:id="color_01" transform="matrix(1,0,0,1,-500,0)">
+                    <path d="M2534,32L2566,32L2566,60L2556,71L2544,71L2534,60L2534,32ZM2547.5,53L2547.5,66.25C2547.5,66.94 2548.06,67.5 2548.75,67.5L2551.25,67.5C2551.94,67.5 2552.5,66.94 2552.5,66.25L2552.5,53L2561,53C2561.83,53 2562.5,52.328 2562.5,51.5L2562.5,48.5C2562.5,47.672 2561.83,47 2561,47L2552.5,47L2552.5,36.75C2552.5,36.06 2551.94,35.5 2551.25,35.5L2548.75,35.5C2548.06,35.5 2547.5,36.06 2547.5,36.75L2547.5,47L2539,47C2538.17,47 2537.5,47.672 2537.5,48.5L2537.5,51.5C2537.5,52.328 2538.17,53 2539,53L2547.5,53Z" style="fill:rgb(163,139,111);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
