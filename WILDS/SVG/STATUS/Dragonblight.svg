@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2400,-700)">
+        <g id="Dragonblight" transform="matrix(1,0,0,1,-1500,-400)">
+            <g id="shadow" transform="matrix(1,0,0,1,1500,400)">
+                <path d="M2425.14,762.135L2425,736L2437,728L2437,756L2442,761L2442,721L2450,712L2458,721L2458,761.017L2463.02,756L2463.02,728L2475.02,736L2474.88,762.135L2458.02,779L2458,779L2458,788L2442,788L2442,779L2425.14,762.135Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:7px;"/>
+                <path d="M2425.14,762.135L2425,736L2437,728L2437,756L2442,761L2442,721L2450,712L2458,721L2458,761.017L2463.02,756L2463.02,728L2475.02,736L2474.88,762.135L2458.02,779L2458,779L2458,788L2442,788L2442,779L2425.14,762.135Z" style="fill:rgb(27,27,27);"/>
+            </g>
+            <g id="color_02" transform="matrix(1,0,0,1,1500,400)">
+                <path d="M2437,746L2437,756L2442,761L2442,741L2458,741L2458,761.017L2463.02,756L2463.02,746L2474.97,746L2474.88,762.135L2458.02,779L2458,779L2458,788L2442,788L2442,779L2425.14,762.135L2425.05,746L2437,746Z" style="fill:rgb(135,128,159);"/>
+            </g>
+            <g id="color_01" transform="matrix(1,0,0,1,1500,400)">
+                <path d="M2425.04,743L2425,736L2437,728L2437,743L2425.04,743ZM2442,738L2442,721L2450,712L2458,721L2458,738L2442,738ZM2463.02,743L2463.02,728L2475.02,736L2474.98,743L2463.02,743Z" style="fill:rgb(110,92,146);"/>
+            </g>
+        </g>
+    </g>
+</svg>

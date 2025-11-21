@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2300,-700)">
+        <g id="Iceblight" transform="matrix(1,0,0,1,-1600,-400)">
+            <g>
+                <g id="shadow" transform="matrix(1,0,0,1,1600,400)">
+                    <path d="M2341,712L2358,726L2358,750L2341,764L2324,750L2324,726L2341,712Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:7px;"/>
+                    <path d="M2341,712L2358,726L2358,750L2341,764L2324,750L2324,726L2341,712Z" style="fill:rgb(27,27,27);"/>
+                </g>
+                <g id="color_02" transform="matrix(1,0,0,1,1600,400)">
+                    <path d="M2341,712L2358,726L2358,750L2341,764L2324,750L2324,726L2341,712Z" style="fill:rgb(124,171,171);"/>
+                </g>
+                <g id="color_01" transform="matrix(1,0,0,1,1600,392)">
+                    <path d="M2341,730L2350,738L2350,756L2341,764L2332,756L2332,738L2341,730ZM2341,737L2337,741L2337,753L2341,757L2345,753L2345,741L2341,737Z" style="fill:rgb(60,113,112);"/>
+                </g>
+            </g>
+            <g>
+                <g id="shadow1" serif:id="shadow" transform="matrix(1,0,0,1,1624,424)">
+                    <path d="M2341,728L2353,738L2353,754L2341,764L2329,754L2329,738L2341,728Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:7px;"/>
+                    <path d="M2341,728L2353,738L2353,754L2341,764L2329,754L2329,738L2341,728Z" style="fill:rgb(27,27,27);"/>
+                </g>
+                <g id="color_021" serif:id="color_02" transform="matrix(1,0,0,1,1624,424)">
+                    <path d="M2341,728L2353,738L2353,754L2341,764L2329,754L2329,738L2341,728Z" style="fill:rgb(124,171,171);"/>
+                </g>
+                <g id="color_011" serif:id="color_01" transform="matrix(0.416667,0,0,0.444444,2989.58,838.444)">
+                    <path d="M2341,728L2353,737L2353,755L2341,764L2329,755L2329,737L2341,728Z" style="fill:rgb(60,113,112);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
