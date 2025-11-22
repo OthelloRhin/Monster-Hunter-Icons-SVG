@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-3300,-1100)">
+        <g id="Major_Bubbleblight" transform="matrix(1,0,0,1,-600,0)">
+            <g transform="matrix(1,0,0,1,3,52)">
+                <g id="shadow" transform="matrix(0.585366,0,0,0.585366,1973.93,461.659)">
+                    <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:none;stroke:rgb(27,27,27);stroke-width:6.83px;"/>
+                    <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:rgb(27,27,27);"/>
+                </g>
+                <g id="color_02" transform="matrix(0.585366,0,0,0.585366,1973.93,461.659)">
+                    <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:rgb(110,110,108);"/>
+                </g>
+                <g id="color_01" transform="matrix(0.390244,0,0,0.390244,2624.95,682.439)">
+                    <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:rgb(240,240,239);"/>
+                </g>
+            </g>
+            <g id="shadow1" serif:id="shadow" transform="matrix(0.97561,0,0,0.97561,679.878,28.0976)">
+                <path d="M3342.04,1151.24C3340.28,1151.74 3338.42,1152 3336.5,1152C3325.19,1152 3316,1142.81 3316,1131.5C3316,1120.19 3325.19,1111 3336.5,1111C3347.81,1111 3357,1120.19 3357,1131.5C3357,1132.41 3356.94,1133.3 3356.83,1134.18C3349.64,1137.31 3344.14,1143.57 3342.04,1151.24Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4.1px;"/>
+                <path d="M3342.04,1151.24C3340.28,1151.74 3338.42,1152 3336.5,1152C3325.19,1152 3316,1142.81 3316,1131.5C3316,1120.19 3325.19,1111 3336.5,1111C3347.81,1111 3357,1120.19 3357,1131.5C3357,1132.41 3356.94,1133.3 3356.83,1134.18C3349.64,1137.31 3344.14,1143.57 3342.04,1151.24Z" style="fill:rgb(27,27,27);"/>
+            </g>
+            <g>
+                <clipPath id="_clip1">
+                    <path d="M4000,1100L4000,1200L3900,1200L3900,1100L4000,1100ZM3965,1132.5C3950.93,1132.5 3939.5,1143.93 3939.5,1158C3939.5,1172.07 3950.93,1183.5 3965,1183.5C3979.07,1183.5 3990.5,1172.07 3990.5,1158C3990.5,1143.93 3979.07,1132.5 3965,1132.5Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g id="color_021" serif:id="color_02" transform="matrix(0.97561,0,0,0.97561,679.878,28.0976)">
+                        <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:rgb(110,110,108);"/>
+                    </g>
+                    <g id="color_011" serif:id="color_01" transform="matrix(0.780488,0,0,0.780488,1330.9,248.878)">
+                        <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:rgb(240,240,239);"/>
+                    </g>
+                </g>
+            </g>
+            <g transform="matrix(1,0,0,1,30,26)">
+                <g id="shadow2" serif:id="shadow" transform="matrix(0.97561,0,0,0.97561,679.878,28.0976)">
+                    <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:none;stroke:rgb(27,27,27);stroke-width:4.1px;"/>
+                    <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:rgb(27,27,27);"/>
+                </g>
+                <g id="color_022" serif:id="color_02" transform="matrix(0.97561,0,0,0.97561,679.878,28.0976)">
+                    <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:rgb(110,110,108);"/>
+                </g>
+                <g id="color_012" serif:id="color_01" transform="matrix(0.780488,0,0,0.780488,1330.9,248.878)">
+                    <circle cx="3336.5" cy="1131.5" r="20.5" style="fill:rgb(240,240,239);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

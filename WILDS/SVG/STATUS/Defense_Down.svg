@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g transform="matrix(1,0,0,1,-3300,-700)">
-        <g id="Defense_Up" transform="matrix(1,0,0,1,-600,-400)">
-            <g id="glow" transform="matrix(1,0,0,1,600,400)">
-                <path d="M3319,766L3319,713L3381,713L3381,766L3363,787L3337,787L3319,766Z" style="fill:none;stroke:rgb(174,247,134);stroke-width:12px;"/>
-                <path d="M3319,766L3319,713L3381,713L3381,766L3363,787L3337,787L3319,766Z" style="fill:rgb(174,247,134);"/>
-            </g>
+    <g transform="matrix(1,0,0,1,-2600,-800)">
+        <g id="Defense_Down" transform="matrix(1,0,0,1,-1300,-300)">
             <g id="shadow" transform="matrix(1,0,0,1,600,400)">
                 <path d="M3319,766L3319,713L3381,713L3381,766L3363,787L3337,787L3319,766Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4px;"/>
                 <path d="M3319,766L3319,713L3381,713L3381,766L3363,787L3337,787L3319,766Z" style="fill:rgb(27,27,27);"/>
@@ -23,11 +19,11 @@
                 </g>
             </g>
             <g>
-                <g id="color_021" serif:id="color_02" transform="matrix(1.61852,0,0,1.59259,-1310.19,-33.8148)">
-                    <path d="M3243.2,745.837L3245.06,754L3254.94,754L3256.8,745.837L3263.59,745.837L3263.59,742.07L3250,727L3236.41,742.07L3236.41,745.837L3243.2,745.837Z" style="fill:rgb(84,121,66);"/>
+                <g id="color_021" serif:id="color_02" transform="matrix(1.61852,0,0,-1.59259,-1310.19,2326.81)">
+                    <path d="M3243.2,745.837L3245.06,754L3254.94,754L3256.8,745.837L3263.59,745.837L3263.59,742.07L3250,727L3236.41,742.07L3236.41,745.837L3243.2,745.837Z" style="fill:rgb(93,69,71);"/>
                 </g>
-                <g id="color_011" serif:id="color_01" transform="matrix(1,0,0,1,700,402)">
-                    <path d="M3242,748L3245,761L3255,761L3258,748L3268,748L3250,728L3232,748L3242,748Z" style="fill:rgb(122,201,85);"/>
+                <g id="color_011" serif:id="color_01" transform="matrix(1,0,0,-1,700,1891)">
+                    <path d="M3242,748L3245,761L3255,761L3258,748L3268,748L3250,728L3232,748L3242,748Z" style="fill:rgb(180,56,66);"/>
                 </g>
             </g>
         </g>

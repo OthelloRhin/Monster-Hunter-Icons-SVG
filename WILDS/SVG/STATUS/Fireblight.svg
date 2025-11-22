@@ -3,7 +3,7 @@
 <svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
     <g transform="matrix(1,0,0,1,-2000,-700)">
         <g id="Fireblight" transform="matrix(1,0,0,1,-1900,-400)">
-            <g transform="matrix(1,0,0,1,1900,400)">
+            <g id="shadow" transform="matrix(1,0,0,1,1900,400)">
                 <path d="M2050,786C2059.5,786 2077,779 2077,761C2077,740 2061,738 2061,738C2061,738 2064.14,729.818 2067,726C2070,722 2079,714 2079,714C2079,714 2058,712 2040,725C2027.18,734.257 2020,745 2020,761C2020,781 2040.5,786 2050,786Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4px;"/>
                 <path d="M2050,786C2059.5,786 2077,779 2077,761C2077,740 2061,738 2061,738C2061,738 2064.14,729.818 2067,726C2070,722 2079,714 2079,714C2079,714 2058,712 2040,725C2027.18,734.257 2020,745 2020,761C2020,781 2040.5,786 2050,786Z" style="fill:rgb(27,27,27);"/>
             </g>
