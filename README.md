@@ -10,9 +10,9 @@ educational, personal, and non-commercial use.
 The current progress of SVG icon recreation is as follows:
 
 - **Skill Icons:** 14 / 14  
-- **Buff & Debuff Icons:** 41 / 95  
-- **Items:** 0 / 92  
-- **Equipment:** 0 / 33  
+- **Status Icons:** 41 / 95  
+- **Items Icons:** 0 / 92  
+- **Equipment Icons:** 0 / 33  
 - **UI Icons:** 0 / 120  
 - **Map Icons:** 0 / 60  
 
