@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2200,-900)">
+        <g id="Paralysis_Negated" transform="matrix(1,0,0,1,-1700,-200)">
+            <g id="glow" transform="matrix(1,0,0,1,1200,400)">
+                <path d="M2716,712L2734,712L2761,738L2743,755L2757,766L2731,780L2744,767L2727,755L2745,738L2716,712ZM2745,717L2763,717L2784,737L2767,754L2784,767L2749,788L2770,769L2751,754L2768,738L2745,717Z" style="fill:none;stroke:rgb(174,247,134);stroke-width:12px;"/>
+                <path d="M2716,712L2734,712L2761,738L2743,755L2757,766L2731,780L2744,767L2727,755L2745,738L2716,712ZM2745,717L2763,717L2784,737L2767,754L2784,767L2749,788L2770,769L2751,754L2768,738L2745,717Z" style="fill:rgb(174,247,134);"/>
+            </g>
+            <g id="shadow" transform="matrix(1,0,0,1,1200,400)">
+                <path d="M2716,712L2734,712L2761,738L2743,755L2757,766L2731,780L2744,767L2727,755L2745,738L2716,712ZM2745,717L2763,717L2784,737L2767,754L2784,767L2749,788L2770,769L2751,754L2768,738L2745,717Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4px;"/>
+                <path d="M2716,712L2734,712L2761,738L2743,755L2757,766L2731,780L2744,767L2727,755L2745,738L2716,712ZM2745,717L2763,717L2784,737L2767,754L2784,767L2749,788L2770,769L2751,754L2768,738L2745,717Z" style="fill:rgb(27,27,27);"/>
+            </g>
+            <g id="color_01" transform="matrix(1,0,0,1,1200,400)">
+                <path d="M2716,712L2734,712L2761,738L2743,755L2757,766L2731,780L2744,767L2727,755L2745,738L2716,712ZM2745,717L2763,717L2784,737L2767,754L2784,767L2749,788L2770,769L2751,754L2768,738L2745,717Z" style="fill:rgb(127,173,106);"/>
+            </g>
+        </g>
+    </g>
+</svg>
