@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2800,-800)">
+        <g id="Frostblight" transform="matrix(1,0,0,1,-1100,-300)">
+            <g id="shadow" transform="matrix(1,0,0,1,1100,300)">
+                <path d="M2855,844.75L2861,840L2858,859L2878,843L2876,859L2882,853L2881,873L2888,882L2885,885L2815,885L2812,882L2816,870L2816,862L2839,845L2837,859L2844,853.458L2844,832L2836,835.231L2836,846L2830,846L2830,832L2843,826L2856,826L2869,832L2869,846L2863,846L2863,835.231L2855,832L2855,844.75ZM2853,812L2853,823L2846,823L2846,812L2853,812Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4px;"/>
+                <path d="M2855,844.75L2861,840L2858,859L2878,843L2876,859L2882,853L2881,873L2888,882L2885,885L2815,885L2812,882L2816,870L2816,862L2839,845L2837,859L2844,853.458L2844,832L2836,835.231L2836,846L2830,846L2830,832L2843,826L2856,826L2869,832L2869,846L2863,846L2863,835.231L2855,832L2855,844.75ZM2853,812L2853,823L2846,823L2846,812L2853,812Z" style="fill:rgb(27,27,27);"/>
+            </g>
+            <g id="color_04" transform="matrix(1,0,0,1,1100,300)">
+                <path d="M2830,832L2843,826L2856,826L2869,832L2869,846L2863,846L2863,835.231L2855,832L2855,863L2844,863L2844,832L2836,835.231L2836,846L2830,846L2830,832ZM2853,812L2853,823L2846,823L2846,812L2853,812Z" style="fill:rgb(198,183,121);"/>
+            </g>
+            <g id="color_03" transform="matrix(1,0,0,1,1100,300)">
+                <path d="M2816,862L2839,845L2837,859L2861,840L2858,859L2878,843L2876,859L2882,853L2881,873L2888,882L2885,885L2815,885L2812,882L2816,870L2816,862Z" style="fill:rgb(231,247,255);"/>
+            </g>
+            <g id="color_02" transform="matrix(1,0,0,1,1100,300)">
+                <path d="M2820,864L2834,853L2832,868L2856,849L2854,867L2873,852L2870,870L2877,864L2877,874L2882,881L2817,881L2820,868L2820,864Z" style="fill:rgb(124,170,171);"/>
+            </g>
+            <g id="color_01" transform="matrix(1,0,0,1,1100,300)">
+                <path d="M2830,860L2828,875L2852,857L2850,876L2869,859L2866,878L2874,871L2875,877L2877.89,881L2817,881L2820,868L2830,860Z" style="fill:rgb(60,113,112);"/>
+            </g>
+        </g>
+    </g>
+</svg>
