@@ -5,7 +5,7 @@
         <g id="Poison" transform="matrix(1,0,0,1,-1400,-400)">
             <g>
                 <g id="shadow" transform="matrix(1.02439,0,0,1.02439,1369.68,416.634)">
-                    <circle cx="2534.5" cy="732.5" r="20.5" style="fill:none;stroke:rgb(27,27,27);stroke-width:6.83px;"/>
+                    <circle cx="2534.5" cy="732.5" r="20.5" style="fill:none;stroke:rgb(27,27,27);stroke-width:3.9px;"/>
                     <circle cx="2534.5" cy="732.5" r="20.5" style="fill:rgb(27,27,27);"/>
                 </g>
                 <g id="color_02" transform="matrix(1.02439,0,0,1.02439,1369.68,416.634)">
@@ -17,7 +17,7 @@
             </g>
             <g>
                 <g id="shadow1" serif:id="shadow" transform="matrix(1.02439,0,0,1.02439,1337.68,382.634)">
-                    <circle cx="2534.5" cy="732.5" r="20.5" style="fill:none;stroke:rgb(27,27,27);stroke-width:6.83px;"/>
+                    <circle cx="2534.5" cy="732.5" r="20.5" style="fill:none;stroke:rgb(27,27,27);stroke-width:3.9px;"/>
                     <circle cx="2534.5" cy="732.5" r="20.5" style="fill:rgb(27,27,27);"/>
                 </g>
                 <g id="color_021" serif:id="color_02" transform="matrix(1.02439,0,0,1.02439,1337.68,382.634)">

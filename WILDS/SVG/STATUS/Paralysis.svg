@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2700,-700)">
+        <g id="Paralysis" transform="matrix(1,0,0,1,-1200,-400)">
+            <g id="shadow" transform="matrix(1,0,0,1,1200,400)">
+                <path d="M2712,713L2729,713L2756,739L2739,754.5L2753,766L2727,780L2740,767L2723,754.5L2741,739L2712,713ZM2748,718L2765,718L2786,738L2769,754L2786,767.5L2752,788L2771,768.5L2753,754.5L2770,739L2748,718Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4px;"/>
+                <path d="M2712,713L2729,713L2756,739L2739,754.5L2753,766L2727,780L2740,767L2723,754.5L2741,739L2712,713ZM2748,718L2765,718L2786,738L2769,754L2786,767.5L2752,788L2771,768.5L2753,754.5L2770,739L2748,718Z" style="fill:rgb(27,27,27);"/>
+            </g>
+            <g id="color_01" transform="matrix(1,0,0,1,1200,400)">
+                <path d="M2712,713L2729,713L2756,739L2739,754.5L2753,766L2727,780L2740,767L2723,754.5L2741,739L2712,713ZM2748,718L2765,718L2786,738L2769,754L2786,767.5L2752,788L2771,768.5L2753,754.5L2770,739L2748,718Z" style="fill:rgb(209,191,119);"/>
+            </g>
+        </g>
+    </g>
+</svg>

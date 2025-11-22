@@ -5,7 +5,7 @@
         <g id="Iceblight" transform="matrix(1,0,0,1,-1600,-400)">
             <g>
                 <g id="shadow" transform="matrix(1,0,0,1,1600,400)">
-                    <path d="M2341,712L2358,726L2358,750L2341,764L2324,750L2324,726L2341,712Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:7px;"/>
+                    <path d="M2341,712L2358,726L2358,750L2341,764L2324,750L2324,726L2341,712Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4px;"/>
                     <path d="M2341,712L2358,726L2358,750L2341,764L2324,750L2324,726L2341,712Z" style="fill:rgb(27,27,27);"/>
                 </g>
                 <g id="color_02" transform="matrix(1,0,0,1,1600,400)">
@@ -17,7 +17,7 @@
             </g>
             <g>
                 <g id="shadow1" serif:id="shadow" transform="matrix(1,0,0,1,1624,424)">
-                    <path d="M2341,728L2353,738L2353,754L2341,764L2329,754L2329,738L2341,728Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:7px;"/>
+                    <path d="M2341,728L2353,738L2353,754L2341,764L2329,754L2329,738L2341,728Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4px;"/>
                     <path d="M2341,728L2353,738L2353,754L2341,764L2329,754L2329,738L2341,728Z" style="fill:rgb(27,27,27);"/>
                 </g>
                 <g id="color_021" serif:id="color_02" transform="matrix(1,0,0,1,1624,424)">
