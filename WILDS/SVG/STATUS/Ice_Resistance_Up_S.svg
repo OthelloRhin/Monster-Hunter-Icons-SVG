@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-3400,-900)">
+        <g id="Ice_Resistance_Up_S" transform="matrix(1,0,0,1,-500,-200)">
+            <g id="glow" transform="matrix(1.03226,0,0,1.02703,491.935,379.73)">
+                <path d="M3376.16,787L3337.41,787L3319,765.579L3319,713L3381,713L3381,765.579L3379.65,767.146L3387.78,775.316L3378.09,775.316L3376.16,787Z" style="fill:none;stroke:rgb(174,247,134);stroke-width:11.65px;"/>
+                <path d="M3376.16,787L3337.41,787L3319,765.579L3319,713L3381,713L3381,765.579L3379.65,767.146L3387.78,775.316L3378.09,775.316L3376.16,787Z" style="fill:rgb(174,247,134);"/>
+            </g>
+            <g id="shadow" transform="matrix(1.03226,0,0,1.02703,491.935,379.73)">
+                <path d="M3376.16,787L3337.41,787L3319,765.579L3319,713L3381,713L3381,765.579L3379.65,767.146L3387.78,775.316L3378.09,775.316L3376.16,787Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:3.88px;"/>
+                <path d="M3376.16,787L3337.41,787L3319,765.579L3319,713L3381,713L3381,765.579L3379.65,767.146L3387.78,775.316L3378.09,775.316L3376.16,787Z" style="fill:rgb(27,27,27);"/>
+            </g>
+            <g transform="matrix(1.03226,0,0,1.02703,-127.419,-31.0811)">
+                <g id="color_03" transform="matrix(1,0,0,1,600,400)">
+                    <path d="M3319,765.579L3319,713L3381,713L3381,765.579L3362.59,787L3337.41,787L3319,765.579Z" style="fill:rgb(124,170,171);"/>
+                </g>
+                <g id="color_02" transform="matrix(1,0,0,1,600,396)">
+                    <path d="M3320.94,769.579L3320.94,718.947L3379.06,718.947L3379.06,769.579L3361.62,789.053L3338.38,789.053L3320.94,769.579Z" style="fill:rgb(103,132,131);"/>
+                </g>
+                <g id="color_01" transform="matrix(1,0,0,1,600,396)">
+                    <path d="M3325.78,766.658L3325.78,723.816L3374.22,723.816L3374.22,766.658L3357.75,784.184L3342.25,784.184L3325.78,766.658Z" style="fill:rgb(124,170,171);"/>
+                </g>
+            </g>
+            <g id="Iceblight">
+                <g id="color_031" serif:id="color_03" transform="matrix(1,0,0,1,1602,402)">
+                    <path d="M2340.5,719L2353,729L2353,748L2340.5,759L2329,748L2329,729L2340.5,719ZM2359,749L2367,756L2367,768L2359,775L2351,768L2351,756L2359,749Z" style="fill:rgb(81,112,110);stroke:rgb(81,112,110);stroke-width:10px;stroke-linecap:round;stroke-miterlimit:2;"/>
+                </g>
+                <g id="color_021" serif:id="color_02" transform="matrix(1,0,0,1,1602,402)">
+                    <path d="M2340.5,719L2353,729L2353,748L2340.5,759L2329,748L2329,729L2340.5,719ZM2359,749L2367,756L2367,768L2359,775L2351,768L2351,756L2359,749Z" style="fill:rgb(124,171,171);"/>
+                </g>
+                <g id="color_011" serif:id="color_01" transform="matrix(0.833333,0,0,0.764706,1992.17,569.765)">
+                    <path d="M2341,730L2350,738L2350,756L2341,764L2332,756L2332,738L2341,730ZM2341,737L2336.8,740.462L2336.8,753.538L2341,757.462L2345.2,753.538L2345.2,740.462L2341,737ZM2362.6,765.308L2367.4,771.192L2367.4,782.962L2362.6,788.846L2357.8,782.962L2357.8,771.192L2362.6,765.308Z" style="fill:rgb(60,113,112);"/>
+                </g>
+            </g>
+            <g transform="matrix(0.818182,0,0,0.837209,738.182,212.977)">
+                <g id="color_012" serif:id="color_01" transform="matrix(1,0,0,1,700,403.389)">
+                    <clipPath id="_clip1">
+                        <path d="M3185.22,736.139L3185.22,669.25L3265.89,669.25L3265.89,736.139L3242.67,762.417L3208.44,762.417L3185.22,736.139Z"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <path d="M3234.11,751.667L3236.56,766L3263.44,766L3265.89,751.667L3285.44,751.667L3250,717.028L3214.56,751.667L3234.11,751.667Z" style="fill:rgb(27,27,27);"/>
+                    </g>
+                </g>
+                <g id="color_013" serif:id="color_01" transform="matrix(1,0,0,1,700,403.389)">
+                    <path d="M3239,746.889L3241.44,761.222L3258.56,761.222L3261,746.889L3273.22,746.889L3250,724.194L3226.78,746.889L3239,746.889Z" style="fill:rgb(122,200,84);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
