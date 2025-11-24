@@ -30,7 +30,16 @@
             </g>
             <g transform="matrix(1,0,0,1,19,24)">
                 <g id="color_022" serif:id="color_02" transform="matrix(1.61852,0,0,1.59259,-1310.19,-33.8148)">
-                    <path d="M3251.42,730.954L3251.24,742.07L3241.97,742.07L3241.97,747.093L3234.55,747.093L3234.55,745.209L3250,729.512L3251.42,730.954Z" style="fill:rgb(27,27,27);"/>
+                    <defs>
+                        <mask id="Mask">
+                        
+                            <g transform="matrix(0.617849,-0,-0,0.627907,3207.37,696.86)"><image id="_Image1" width="100px" height="100px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAAAAABVicqIAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAIUlEQVRoge3BgQAAAADDoPlTX+EAVQEAAAAAAAAAAACPASd0AAGLis+ZAAAAAElFTkSuQmCC"/>
+                            </g>
+                        </mask>
+                    </defs>
+                    <g mask="url(#Mask)">
+                        <path d="M3243.82,747.093L3245.06,753.372L3254.94,753.372L3256.18,747.093L3264.83,747.093L3264.83,744.581L3250,729.512L3234.55,745.209L3234.55,747.093L3243.82,747.093Z" style="fill:rgb(27,27,27);"/>
+                    </g>
                 </g>
                 <g id="color_012" serif:id="color_01" transform="matrix(1,0,0,1,700,403)">
                     <path d="M3240,749L3243,761L3257,761L3260,749L3269,749L3250,730L3230,749L3240,749Z" style="fill:rgb(122,200,84);"/>
