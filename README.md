@@ -10,7 +10,7 @@ educational, personal, and non-commercial use.
 The current progress of SVG icon recreation is as follows:
 
 - **Skill Icons:** 14 / 14  
-- **Status Icons:** 76 / 95  
+- **Status Icons:** 79 / 95  
 - **Items Icons:** 0 / 92  
 - **Equipment Icons:** 0 / 33  
 - **UI Icons:** 0 / 120  
