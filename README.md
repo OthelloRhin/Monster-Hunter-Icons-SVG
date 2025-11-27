@@ -1,16 +1,15 @@
 # Monster Hunter Icons (SVG)
 
-This repository provides non-commercial, fan-made vector reproductions
-of various Monster Hunter icons. All assets are redrawn manually based
-on in-game designs from Capcom titles and are intended solely for
-educational, personal, and non-commercial use.
+This project offers fan-made, non-commercial vector recreations of Monster Hunter icons — redrawn with care and shared for everyone in the community.  
+These assets are here for content creators, developers of websites or apps, and fans who simply enjoy the series and want to build cool things with it.  
+Feel free to use them in your personal or creative projects, as long as they’re not used for any commercial purpose (including resale on third-party platforms).
 
 ## Icon Completion Status (up to Title Update 3)
 
 The current progress of SVG icon recreation is as follows:
 
 - **Skill Icons:** 14 / 14  
-- **Status Icons:** 79 / 95  
+- **Status Icons:** 83 / 95  
 - **Items Icons:** 0 / 92  
 - **Equipment Icons:** 0 / 33  
 - **UI Icons:** 0 / 120  
