@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2200,-1100)">
+        <g id="Stamina_Regen" transform="matrix(1,0,0,1,-1700,0)">
+            <g id="glow" transform="matrix(1,0,0,1,100,400)">
+                <path d="M3813,750L3850,713L3887,750L3850,787L3813,750Z" style="fill:none;stroke:rgb(174,247,134);stroke-width:12px;"/>
+                <path d="M3813,750L3850,713L3887,750L3850,787L3813,750Z" style="fill:rgb(174,247,134);"/>
+            </g>
+            <g id="shadow" transform="matrix(1,0,0,1,100,400)">
+                <path d="M3813,750L3850,713L3887,750L3850,787L3813,750Z" style="fill:none;stroke:rgb(27,27,27);stroke-width:4px;"/>
+                <path d="M3813,750L3850,713L3887,750L3850,787L3813,750Z" style="fill:rgb(27,27,27);"/>
+            </g>
+            <g id="color_04" transform="matrix(1,0,0,1,100,400)">
+                <path d="M3813,750L3850,713L3887,750L3850,787L3813,750Z" style="fill:rgb(184,147,104);"/>
+            </g>
+            <g>
+                <clipPath id="_clip1">
+                    <path d="M3913,1150L3950,1113L3987,1150L3950,1187L3913,1150Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <g id="color_03" transform="matrix(1,0,0,1,1700,1)">
+                        <path d="M2236.45,1152.53L2219,1149L2236.45,1145.48C2237.73,1140.55 2241.63,1136.67 2246.57,1135.42L2250,1115L2253.43,1135.42C2258.37,1136.67 2262.27,1140.55 2263.55,1145.48L2281,1149L2263.55,1152.53C2262.27,1157.45 2258.37,1161.33 2253.43,1162.58L2250,1183L2246.57,1162.58C2241.63,1161.33 2237.73,1157.45 2236.45,1152.53Z" style="fill:none;stroke:rgb(124,88,64);stroke-width:8px;"/>
+                        <path d="M2236.45,1152.53L2219,1149L2236.45,1145.48C2237.73,1140.55 2241.63,1136.67 2246.57,1135.42L2250,1115L2253.43,1135.42C2258.37,1136.67 2262.27,1140.55 2263.55,1145.48L2281,1149L2263.55,1152.53C2262.27,1157.45 2258.37,1161.33 2253.43,1162.58L2250,1183L2246.57,1162.58C2241.63,1161.33 2237.73,1157.45 2236.45,1152.53Z" style="fill:rgb(124,88,64);"/>
+                    </g>
+                    <g id="color_02" transform="matrix(1,0,0,1,1700,1)">
+                        <path d="M2236.45,1152.53L2219,1149L2236.45,1145.48C2237.73,1140.55 2241.63,1136.67 2246.57,1135.42L2250,1115L2253.43,1135.42C2258.37,1136.67 2262.27,1140.55 2263.55,1145.48L2281,1149L2263.55,1152.53C2262.27,1157.45 2258.37,1161.33 2253.43,1162.58L2250,1183L2246.57,1162.58C2241.63,1161.33 2237.73,1157.45 2236.45,1152.53Z" style="fill:rgb(224,198,96);"/>
+                    </g>
+                    <g id="color_01" transform="matrix(0.571429,0,0,0.571429,2664.29,493.429)">
+                        <circle cx="2250" cy="1149" r="14" style="fill:rgb(241,240,225);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
