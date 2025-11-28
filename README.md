@@ -9,7 +9,7 @@ Feel free to use them in your personal or creative projects, as long as they’r
 The current progress of SVG icon recreation is as follows:
 
 - **Skill Icons:** 14 / 14  
-- **Status Icons:** 89 / 95  
+- **Status Icons:** 91 / 95  
 - **Items Icons:** 0 / 92  
 - **Equipment Icons:** 0 / 33  
 - **UI Icons:** 0 / 120  
