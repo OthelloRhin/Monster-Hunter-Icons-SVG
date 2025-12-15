@@ -27,3 +27,7 @@ Co., Ltd.
 
 Feel free to open issues or submit pull requests for improvements,
 fixes, or additional icons.
+
+## Keywords
+
+Monster Hunter, Monster Hunter icons, SVG icons, vector icons, game UI icons, fan made assets, Monster Hunter fans, modding, UI modding, game overlays, streaming overlays, content creators, web development, application icons, non commercial, Capcom fan project
