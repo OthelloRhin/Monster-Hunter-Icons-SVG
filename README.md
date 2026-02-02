@@ -4,16 +4,16 @@ This project offers fan-made, non-commercial vector recreations of Monster Hunte
 These assets are intended for content creators, website and application developers, and fans who simply enjoy the series and want to build cool things around it.  
 Feel free to use them in your personal or creative projects, as long as they are not used for any commercial purpose (including resale on third-party platforms).
 
-## Icon Completion Status (up to Title Update 3)
+## Icon Completion Status (up to Title Update 4)
 
 The current progress of SVG icon recreation is as follows:
 
-- **Skill Icons:** 14 / 14  
-- **Status Icons:** 95 / 95  
-- **Item Icons:** 0 / 92  
-- **Equipment Icons:** 3 / 33  
-- **UI Icons:** 0 / 120  
-- **Map Icons:** 0 / 60  
+- **Skill Icons:** 14 / 14
+- **Status Icons:** 95 / 95
+- **Item Icons:** 0 / 92
+- **Equipment Icons:** 11 / 57
+- **UI Icons:** 0 / 120
+- **Map Icons:** 0 / 63
 
 This project is still actively developed — contributions are very welcome!
 
