@@ -11,7 +11,7 @@ The current progress of SVG icon recreation is as follows:
 - **Skill Icons:** 14 / 14
 - **Status Icons:** 95 / 95
 - **Item Icons:** 0 / 92
-- **Equipment Icons:** 11 / 57
+- **Equipment Icons:** 14 / 57
 - **UI Icons:** 0 / 120
 - **Map Icons:** 0 / 63
 
