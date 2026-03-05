@@ -1,1 +1,60 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="Element_Skill"><g><path id="color_02" d="M366.667,145l-0,126.667l-95,95l-126.667,-0l-95,-95l-0,-126.667l95,-95l126.667,-0l95,95Z" style="fill:#503f6b;"/><path id="color_01" d="M325,161.667l0,93.333l-70,70l-93.333,0l-70,-70l-0,-93.333l70,-70l93.333,-0l70,70Z" style="fill:#5e4c79;"/></g><g id="elements"><g id="ice"><clipPath id="_clip1"><path d="M208.333,208.333l170.834,208.334l37.5,-0l-0,-287.5l-208.334,79.166Z"/></clipPath><g clip-path="url(#_clip1)"><path id="color_021" serif:id="color_02" d="M358.333,148.333l0,120l-90,90l-120,0l-90,-90l0,-120l90,-90l120,0l90,90Z" style="fill:#719a9b;"/><path id="color_011" serif:id="color_01" d="M325,161.667l0,93.333l-70,70l-93.333,0l-70,-70l-0,-93.333l70,-70l93.333,-0l70,70Z" style="fill:#7cabab;"/></g></g><g id="fire"><clipPath id="_clip2"><path d="M416.667,129.167l-0,-129.167l-208.334,0l0,208.333l208.334,-79.166Z"/></clipPath><g clip-path="url(#_clip2)"><path id="color_022" serif:id="color_02" d="M358.333,148.333l0,120l-90,90l-120,0l-90,-90l0,-120l90,-90l120,0l90,90Z" style="fill:#8c5760;"/><path id="color_012" serif:id="color_01" d="M325,161.667l0,93.333l-70,70l-93.333,0l-70,-70l-0,-93.333l70,-70l93.333,-0l70,70Z" style="fill:#a6666c;"/></g></g><g id="water"><clipPath id="_clip3"><path d="M0,129.167l0,-129.167l208.333,0l0,208.333l-208.333,-79.166Z"/></clipPath><g clip-path="url(#_clip3)"><path id="color_023" serif:id="color_02" d="M358.333,148.333l0,120l-90,90l-120,0l-90,-90l0,-120l90,-90l120,0l90,90Z" style="fill:#6480a3;"/><path id="color_013" serif:id="color_01" d="M325,161.667l0,93.333l-70,70l-93.333,0l-70,-70l-0,-93.333l70,-70l93.333,-0l70,70Z" style="fill:#759ab9;"/></g></g><g id="thunder"><clipPath id="_clip4"><path d="M208.333,208.333l-170.833,208.334l-37.5,-0l0,-287.5l208.333,79.166Z"/></clipPath><g clip-path="url(#_clip4)"><path id="color_024" serif:id="color_02" d="M358.333,148.333l0,120l-90,90l-120,0l-90,-90l0,-120l90,-90l120,0l90,90Z" style="fill:#9d8d63;"/><path id="color_014" serif:id="color_01" d="M325,161.667l0,93.333l-70,70l-93.333,0l-70,-70l-0,-93.333l70,-70l93.333,-0l70,70Z" style="fill:#b8aa70;"/></g></g></g><g><g><path id="shadow" d="M187.5,120.833l-29.167,87.5l0,104.167l100,0c16.197,0 31.949,-12.042 41.667,-25c10.417,-13.889 18.553,-37.812 20.833,-58.333c4.167,-37.5 -12.5,-91.667 -12.5,-91.667l-18.75,45.833l-18.75,-29.166l-12.5,33.333l-20.833,-104.167l-39.583,125l-10.417,-87.5Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:29.17px;"/><path id="color_025" serif:id="color_02" d="M187.5,120.833l-29.167,87.5l0,104.167l100,0c16.197,0 31.949,-12.042 41.667,-25c10.417,-13.889 18.553,-37.812 20.833,-58.333c4.167,-37.5 -12.5,-91.667 -12.5,-91.667l-18.75,45.833l-18.75,-29.166l-12.5,33.333l-20.833,-104.167l-39.583,125l-10.417,-87.5Z" style="fill:#7b5b5f;"/><path id="color_015" serif:id="color_01" d="M182.167,161.288l-23.834,65.227l0,77.652l81.715,-0c13.236,-0 39.511,-7.008 47.452,-16.667c8.512,-10.354 18.97,-34.703 20.833,-50c3.405,-27.955 0,-70.833 0,-70.833l-20.833,29.166l-12.5,-20.833c0,0 -7.727,20.833 -16.667,20.833c-16.666,0 -20.833,-62.5 -20.833,-62.5l-45.833,108.334l-9.5,-80.379Z" style="fill:#8d6e71;"/></g><g><path id="shadow1" serif:id="shadow" d="M145.833,195.833l0,120.834l-16.666,-0l-0,-120.834l16.666,0Zm-29.166,50l-0,20.834l-20.834,-0l0,-20.834l20.834,0Zm41.666,-20.833c0,0 50.268,4.167 70.834,4.167c37.5,-0 50,-29.167 50,-29.167c-0,-0 8.333,41.667 -20.834,75c-11.568,13.221 -33.203,16.667 -50,16.667c-29.166,-0 -50,-4.167 -50,-4.167l0,-62.5Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:29.17px;"/><path id="color_026" serif:id="color_02" d="M145.833,195.833l0,120.834l-16.666,-0l-0,-120.834l16.666,0Zm-29.166,50l-0,20.834l-20.834,-0l0,-20.834l20.834,0Z" style="fill:#9e7e62;"/><path id="color_016" serif:id="color_01" d="M158.333,225c0,0 50.268,4.167 70.834,4.167c37.5,-0 50,-29.167 50,-29.167c-0,0 8.333,41.667 -20.834,75c-11.568,13.221 -33.203,16.667 -50,16.667c-29.166,-0 -50,-4.167 -50,-4.167l0,-62.5Z" style="fill:#ccc;"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Element_Skill">
+        <g>
+            <path id="color_02" d="M88,34.8l0,30.4l-22.8,22.8l-30.4,0l-22.8,-22.8l0,-30.4l22.8,-22.8l30.4,0l22.8,22.8Z" style="fill:#503f6b;"/>
+            <path id="color_01" d="M78,38.8l0,22.4l-16.8,16.8l-22.4,0l-16.8,-16.8l0,-22.4l16.8,-16.8l22.4,-0l16.8,16.8Z" style="fill:#5e4c79;"/>
+        </g>
+        <g id="elements">
+            <g id="ice">
+                <clipPath id="_clip1">
+                    <path d="M50,50l41,50l9,0l0,-69l-50,19Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <path id="color_021" serif:id="color_02" d="M86,35.6l-0,28.8l-21.6,21.6l-28.8,0l-21.6,-21.6l-0,-28.8l21.6,-21.6l28.8,-0l21.6,21.6Z" style="fill:#719a9b;"/>
+                    <path id="color_011" serif:id="color_01" d="M78,38.8l0,22.4l-16.8,16.8l-22.4,0l-16.8,-16.8l0,-22.4l16.8,-16.8l22.4,-0l16.8,16.8Z" style="fill:#7cabab;"/>
+                </g>
+            </g>
+            <g id="fire">
+                <clipPath id="_clip2">
+                    <path d="M100,31l0,-31l-50,0l0,50l50,-19Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip2)">
+                    <path id="color_022" serif:id="color_02" d="M86,35.6l-0,28.8l-21.6,21.6l-28.8,0l-21.6,-21.6l-0,-28.8l21.6,-21.6l28.8,-0l21.6,21.6Z" style="fill:#8c5760;"/>
+                    <path id="color_012" serif:id="color_01" d="M78,38.8l0,22.4l-16.8,16.8l-22.4,0l-16.8,-16.8l0,-22.4l16.8,-16.8l22.4,-0l16.8,16.8Z" style="fill:#a6666c;"/>
+                </g>
+            </g>
+            <g id="water">
+                <clipPath id="_clip3">
+                    <path d="M0,31l0,-31l50,0l0,50l-50,-19Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip3)">
+                    <path id="color_023" serif:id="color_02" d="M86,35.6l-0,28.8l-21.6,21.6l-28.8,0l-21.6,-21.6l-0,-28.8l21.6,-21.6l28.8,-0l21.6,21.6Z" style="fill:#6480a3;"/>
+                    <path id="color_013" serif:id="color_01" d="M78,38.8l0,22.4l-16.8,16.8l-22.4,0l-16.8,-16.8l0,-22.4l16.8,-16.8l22.4,-0l16.8,16.8Z" style="fill:#759ab9;"/>
+                </g>
+            </g>
+            <g id="thunder">
+                <clipPath id="_clip4">
+                    <path d="M50,50l-41,50l-9,0l0,-69l50,19Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip4)">
+                    <path id="color_024" serif:id="color_02" d="M86,35.6l-0,28.8l-21.6,21.6l-28.8,0l-21.6,-21.6l-0,-28.8l21.6,-21.6l28.8,-0l21.6,21.6Z" style="fill:#9d8d63;"/>
+                    <path id="color_014" serif:id="color_01" d="M78,38.8l0,22.4l-16.8,16.8l-22.4,0l-16.8,-16.8l0,-22.4l16.8,-16.8l22.4,-0l16.8,16.8Z" style="fill:#b8aa70;"/>
+                </g>
+            </g>
+        </g>
+        <g>
+            <g>
+                <path id="shadow" d="M45,29l-7,21l0,25l24,0c3.887,0 7.668,-2.89 10,-6c2.5,-3.333 4.453,-9.075 5,-14c1,-9 -3,-22 -3,-22l-4.5,11l-4.5,-7l-3,8l-5,-25l-9.5,30l-2.5,-21Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:7px;"/>
+                <path id="color_025" serif:id="color_02" d="M45,29l-7,21l0,25l24,0c3.887,0 7.668,-2.89 10,-6c2.5,-3.333 4.453,-9.075 5,-14c1,-9 -3,-22 -3,-22l-4.5,11l-4.5,-7l-3,8l-5,-25l-9.5,30l-2.5,-21Z" style="fill:#7b5b5f;"/>
+                <path id="color_015" serif:id="color_01" d="M43.72,38.709l-5.72,15.655l-0,18.636l19.612,0c3.176,0 9.482,-1.682 11.388,-4c2.043,-2.485 4.553,-8.329 5,-12c0.817,-6.709 -0,-17 -0,-17l-5,7l-3,-5c0,0 -1.855,5 -4,5c-4,0 -5,-15 -5,-15l-11,26l-2.28,-19.291Z" style="fill:#8d6e71;"/>
+            </g>
+            <g>
+                <path id="shadow1" serif:id="shadow" d="M35,47l0,29l-4,0l0,-29l4,0Zm-7,12l0,5l-5,0l0,-5l5,0Zm10,-5c0,0 12.064,1 17,1c9,0 12,-7 12,-7c0,0 2,10 -5,18c-2.776,3.173 -7.969,4 -12,4c-7,0 -12,-1 -12,-1l0,-15Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:7px;"/>
+                <path id="color_026" serif:id="color_02" d="M35,47l0,29l-4,0l0,-29l4,0Zm-7,12l0,5l-5,0l0,-5l5,0Z" style="fill:#9e7e62;"/>
+                <path id="color_016" serif:id="color_01" d="M38,54c0,0 12.064,1 17,1c9,0 12,-7 12,-7c0,0 2,10 -5,18c-2.776,3.173 -7.969,4 -12,4c-7,0 -12,-1 -12,-1l0,-15Z" style="fill:#ccc;"/>
+            </g>
+        </g>
+    </g>
+</svg>

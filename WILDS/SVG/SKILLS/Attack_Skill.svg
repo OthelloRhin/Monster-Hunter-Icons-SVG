@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="Attack_Skill"><g><path id="color_02" d="M366.667,145l-0,126.667l-95,95l-126.667,-0l-95,-95l0,-126.667l95,-95l126.667,-0l95,95Z" style="fill:#724141;"/><path id="color_01" d="M325,161.667l0,93.333l-70,70l-93.333,0l-70,-70l-0,-93.333l70,-70l93.333,-0l70,70Z" style="fill:#854e4a;"/></g><g><path id="shadow" d="M254.167,250l-0,12.5l33.333,0l0,16.667l-62.5,-0l0,45.833l-29.167,0l0,-45.833l-58.333,-0l0,-16.667l29.167,0l-0,-12.5c-0,0 7.241,-75.405 4.166,-100c-4.166,-33.333 -33.333,-45.833 -33.333,-45.833c0,-0 75,-4.167 104.167,33.333c22.005,28.293 12.5,112.5 12.5,112.5Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:29.17px;"/><path id="color_03" d="M225,291.667l0,33.333l-29.167,0l0,-33.333l29.167,-0Zm62.5,-29.167l0,16.667l-150,-0l0,-16.667l150,0Z" style="fill:#9b7c61;"/><path id="color_021" serif:id="color_02" d="M137.5,104.167c0,-0 29.167,12.5 33.333,45.833c3.075,24.595 -4.166,100 -4.166,100l87.5,0c-0,0 9.505,-84.207 -12.5,-112.5c-29.167,-37.5 -104.167,-33.333 -104.167,-33.333Z" style="fill:#7a787f;"/><path id="color_011" serif:id="color_01" d="M137.5,104.167c0,-0 58.333,-0 79.167,41.666c21.73,43.462 8.333,104.167 8.333,104.167l29.167,0c-0,0 9.505,-84.207 -12.5,-112.5c-29.167,-37.5 -104.167,-33.333 -104.167,-33.333Z" style="fill:#ccc;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Attack_Skill">
+        <g>
+            <path id="color_02" d="M88,34.8l0,30.4l-22.8,22.8l-30.4,0l-22.8,-22.8l0,-30.4l22.8,-22.8l30.4,0l22.8,22.8Z" style="fill:#724141;"/>
+            <path id="color_01" d="M78,38.8l0,22.4l-16.8,16.8l-22.4,0l-16.8,-16.8l0,-22.4l16.8,-16.8l22.4,-0l16.8,16.8Z" style="fill:#854e4a;"/>
+        </g>
+        <g>
+            <path id="shadow" d="M61,60l0,3l8,0l0,4l-15,0l0,11l-7,0l0,-11l-14,0l0,-4l7,0l0,-3c0,0 1.738,-18.097 1,-24c-1,-8 -8,-11 -8,-11c0,0 18,-1 25,8c5.281,6.79 3,27 3,27Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:7px;"/>
+            <path id="color_03" d="M54,70l0,8l-7,0l0,-8l7,0Zm15,-7l0,4l-36,0l0,-4l36,0Z" style="fill:#9b7c61;"/>
+            <path id="color_021" serif:id="color_02" d="M33,25c0,0 7,3 8,11c0.738,5.903 -1,24 -1,24l21,0c0,0 2.281,-20.21 -3,-27c-7,-9 -25,-8 -25,-8Z" style="fill:#7a787f;"/>
+            <path id="color_011" serif:id="color_01" d="M33,25c0,0 14,0 19,10c5.215,10.431 2,25 2,25l7,0c0,0 2.281,-20.21 -3,-27c-7,-9 -25,-8 -25,-8Z" style="fill:#ccc;"/>
+        </g>
+    </g>
+</svg>

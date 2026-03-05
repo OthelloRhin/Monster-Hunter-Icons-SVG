@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="Minor_Bubbleblight"><g><circle id="shadow" cx="275" cy="283.333" r="70.833" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><circle cx="275" cy="283.333" r="70.833" style="fill:#1b1b1b;"/><circle id="color_02" cx="275" cy="283.333" r="70.833" style="fill:#6e6e6c;"/><circle id="color_01" cx="275" cy="283.333" r="54.167" style="fill:#f0f0ef;"/></g><g><circle id="shadow1" serif:id="shadow" cx="154.167" cy="145.833" r="83.333" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><circle cx="154.167" cy="145.833" r="83.333" style="fill:#1b1b1b;"/><circle id="color_021" serif:id="color_02" cx="154.167" cy="145.833" r="83.333" style="fill:#6e6e6c;"/><circle id="color_011" serif:id="color_01" cx="154.167" cy="145.833" r="66.667" style="fill:#f0f0ef;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Minor_Bubbleblight">
+        <g>
+            <circle id="shadow" cx="66" cy="68" r="17" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+            <circle cx="66" cy="68" r="17" style="fill:#1b1b1b;"/>
+            <circle id="color_02" cx="66" cy="68" r="17" style="fill:#6e6e6c;"/>
+            <circle id="color_01" cx="66" cy="68" r="13" style="fill:#f0f0ef;"/>
+        </g>
+        <g>
+            <circle id="shadow1" serif:id="shadow" cx="37" cy="35" r="20" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+            <circle cx="37" cy="35" r="20" style="fill:#1b1b1b;"/>
+            <circle id="color_021" serif:id="color_02" cx="37" cy="35" r="20" style="fill:#6e6e6c;"/>
+            <circle id="color_011" serif:id="color_01" cx="37" cy="35" r="16" style="fill:#f0f0ef;"/>
+        </g>
+    </g>
+</svg>

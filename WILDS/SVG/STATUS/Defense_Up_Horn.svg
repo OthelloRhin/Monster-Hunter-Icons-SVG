@@ -1,1 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="Defense_Up_Horn"><path id="glow" d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,0l-75,-87.5Z" style="fill:none;stroke:#aef786;stroke-width:50px;"/><path d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,0l-75,-87.5Z" style="fill:#aef786;"/><path id="shadow" d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,0l-75,-87.5Z" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><path d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,0l-75,-87.5Z" style="fill:#1b1b1b;"/><g><path id="color_03" d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,-0l-75,-87.5Z" style="fill:#a38b6f;"/><path id="color_02" d="M91.667,270.833l-0,-204.166l233.333,-0l0,204.166l-66.667,79.167l-100,-0l-66.666,-79.167Z" style="fill:#7b6d5a;"/><path id="color_01" d="M104.167,266.667l-0,-187.5l208.333,-0l0,187.5l-58.333,70.833l-91.667,-0l-58.333,-70.833Z" style="fill:#a38b6f;"/></g><g><path id="color_021" serif:id="color_02" d="M162.5,225l12.5,54.167l66.667,-0l12.5,-54.167l45.833,-0l-0,-25l-91.667,-100l-91.666,100l-0,25l45.833,-0Z" style="fill:#547942;"/><path id="color_011" serif:id="color_01" d="M175,208.333l12.5,54.167l41.667,-0l12.5,-54.167l41.666,0l-75,-83.333l-75,83.333l41.667,0Z" style="fill:#7ac955;"/></g><g><path id="color_022" serif:id="color_02" d="M25,291.667l66.667,-0l-0,50l-25,-0l-0,-33.334l-16.667,0l0,50l58.333,0l0,-175l25,0c0,0 8.334,8.334 25,8.334c16.667,-0 25,-8.334 25,-8.334l0,25c0,0 -8.333,20.834 -25,20.834c-16.666,-0 -25,-16.667 -25,-16.667l0,162.5l-16.666,16.667l-75,-0l-16.667,-16.667l0,-83.333Z" style="fill:#663a0a;stroke:#663a0a;stroke-width:16.67px;stroke-linecap:round;stroke-miterlimit:2;"/><path id="color_012" serif:id="color_01" d="M25,291.667l66.667,-0l-0,50l-25,-0l-0,-33.334l-16.667,0l0,50l58.333,0l0,-175l25,0c0,0 8.334,8.334 25,8.334c16.667,-0 25,-8.334 25,-8.334l0,25c0,0 -8.333,20.834 -25,20.834c-16.666,-0 -25,-16.667 -25,-16.667l0,162.5l-16.666,16.667l-75,-0l-16.667,-16.667l0,-83.333Z" style="fill:#fad2a2;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Defense_Up_Horn">
+        <path id="glow" d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z" style="fill:none;stroke:#aef786;stroke-width:12px;"/>
+        <path d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z" style="fill:#aef786;"/>
+        <path id="shadow" d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+        <path d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z" style="fill:#1b1b1b;"/>
+        <g>
+            <path id="color_03" d="M19,66l0,-53l62,-0l0,53l-18,21l-26,-0l-18,-21Z" style="fill:#a38b6f;"/>
+            <path id="color_02" d="M22,65l0,-49l56,-0l0,49l-16,19l-24,-0l-16,-19Z" style="fill:#7b6d5a;"/>
+            <path id="color_01" d="M25,64l0,-45l50,-0l0,45l-14,17l-22,-0l-14,-17Z" style="fill:#a38b6f;"/>
+        </g>
+        <g>
+            <path id="color_021" serif:id="color_02" d="M39,54l3,13l16,-0l3,-13l11,-0l-0,-6l-22,-24l-22,24l-0,6l11,-0Z" style="fill:#547942;"/>
+            <path id="color_011" serif:id="color_01" d="M42,50l3,13l10,-0l3,-13l10,-0l-18,-20l-18,20l10,-0Z" style="fill:#7ac955;"/>
+        </g>
+        <g>
+            <path id="color_022" serif:id="color_02" d="M6,70l16,0l0,12l-6,0l0,-8l-4,0l0,12l14,0l0,-42l6,0c0,0 2,2 6,2c4,0 6,-2 6,-2l0,6c0,0 -2,5 -6,5c-4,0 -6,-4 -6,-4l0,39l-4,4l-18,0l-4,-4l0,-20Z" style="fill:#663a0a;stroke:#663a0a;stroke-width:4px;stroke-linecap:round;stroke-miterlimit:2;"/>
+            <path id="color_012" serif:id="color_01" d="M6,70l16,0l0,12l-6,0l0,-8l-4,0l0,12l14,0l0,-42l6,0c0,0 2,2 6,2c4,0 6,-2 6,-2l0,6c0,0 -2,5 -6,5c-4,0 -6,-4 -6,-4l0,39l-4,4l-18,0l-4,-4l0,-20Z" style="fill:#fad2a2;"/>
+        </g>
+    </g>
+</svg>

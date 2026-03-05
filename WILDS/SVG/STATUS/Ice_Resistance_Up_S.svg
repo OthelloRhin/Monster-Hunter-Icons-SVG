@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="Ice_Resistance_Up_S"><path id="glow" d="M320.833,366.667l-166.666,-0l-79.167,-91.667l0,-225l266.667,0l-0,225l-5.793,6.707l34.959,34.96l-41.666,-0l-8.334,50Z" style="fill:none;stroke:#aef786;stroke-width:50px;"/><path d="M320.833,366.667l-166.666,-0l-79.167,-91.667l0,-225l266.667,0l-0,225l-5.793,6.707l34.959,34.96l-41.666,-0l-8.334,50Z" style="fill:#aef786;"/><path id="shadow" d="M320.833,366.667l-166.666,-0l-79.167,-91.667l0,-225l266.667,0l-0,225l-5.793,6.707l34.959,34.96l-41.666,-0l-8.334,50Z" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><path d="M320.833,366.667l-166.666,-0l-79.167,-91.667l0,-225l266.667,0l-0,225l-5.793,6.707l34.959,34.96l-41.666,-0l-8.334,50Z" style="fill:#1b1b1b;"/><g><path id="color_03" d="M75,275l0,-225l266.667,0l-0,225l-79.167,91.667l-108.333,-0l-79.167,-91.667Z" style="fill:#7caaab;"/><path id="color_02" d="M83.333,275l0,-216.667l250,0l0,216.667l-75,83.333l-100,0l-75,-83.333Z" style="fill:#678483;"/><path id="color_01" d="M104.167,262.5l-0,-183.333l208.333,-0l0,183.333l-70.833,75l-66.667,-0l-70.833,-75Z" style="fill:#7caaab;"/></g><g id="Iceblight"><path id="color_031" serif:id="color_03" d="M177.083,87.5l52.084,41.667l-0,79.166l-52.084,45.834l-47.916,-45.834l-0,-79.166l47.916,-41.667Zm77.084,125l33.333,29.167l0,50l-33.333,29.166l-33.334,-29.166l0,-50l33.334,-29.167Z" style="fill:#51706e;stroke:#51706e;stroke-width:41.67px;stroke-linecap:round;stroke-miterlimit:2;"/><path id="color_021" serif:id="color_02" d="M177.083,87.5l52.084,41.667l-0,79.166l-52.084,45.834l-47.916,-45.834l-0,-79.166l47.916,-41.667Zm77.084,125l33.333,29.167l0,50l-33.333,29.166l-33.334,-29.166l0,-50l33.334,-29.167Z" style="fill:#7cabab;"/><path id="color_011" serif:id="color_01" d="M179.167,116.667l31.25,25.49l-0,57.353l-31.25,25.49l-31.25,-25.49l-0,-57.353l31.25,-25.49Zm-0,22.304l-14.584,11.029l0,41.667l14.584,12.5l14.583,-12.5l0,-41.667l-14.583,-11.029Zm75,90.196l16.666,18.75l0,37.5l-16.666,18.75l-16.667,-18.75l-0,-37.5l16.667,-18.75Z" style="fill:#3c7170;"/></g><g><clipPath id="_clip1"><path id="color_012" serif:id="color_01" d="M70.833,279.167l0,-233.334l275,0l0,233.334l-79.166,91.666l-116.667,0l-79.167,-91.666Z"/></clipPath><g clip-path="url(#_clip1)"><path d="M237.5,333.333l8.333,50l91.667,0l8.333,-50l66.667,0l-120.833,-120.833l-120.834,120.833l66.667,0Z" style="fill:#1b1b1b;"/></g><path id="color_013" serif:id="color_01" d="M254.167,316.667l8.333,50l58.333,-0l8.334,-50l41.666,-0l-79.166,-79.167l-79.167,79.167l41.667,-0Z" style="fill:#7ac854;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Ice_Resistance_Up_S">
+        <path id="glow" d="M77,88l-40,-0l-19,-22l0,-54l64,-0l0,54l-1.39,1.61l8.39,8.39l-10,-0l-2,12Z" style="fill:none;stroke:#aef786;stroke-width:12px;"/>
+        <path d="M77,88l-40,-0l-19,-22l0,-54l64,-0l0,54l-1.39,1.61l8.39,8.39l-10,-0l-2,12Z" style="fill:#aef786;"/>
+        <path id="shadow" d="M77,88l-40,-0l-19,-22l0,-54l64,-0l0,54l-1.39,1.61l8.39,8.39l-10,-0l-2,12Z" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+        <path d="M77,88l-40,-0l-19,-22l0,-54l64,-0l0,54l-1.39,1.61l8.39,8.39l-10,-0l-2,12Z" style="fill:#1b1b1b;"/>
+        <g>
+            <path id="color_03" d="M18,66l0,-54l64,0l0,54l-19,22l-26,0l-19,-22Z" style="fill:#7caaab;"/>
+            <path id="color_02" d="M20,66l0,-52l60,-0l0,52l-18,20l-24,-0l-18,-20Zm5,-2l16,17l18,-0l16,-17l0,-45l-50,-0l0,45Z" style="fill:#678483;"/>
+        </g>
+        <g id="Iceblight">
+            <path id="color_031" serif:id="color_03" d="M42.5,21l12.5,10l-0,19l-12.5,11l-11.5,-11l-0,-19l11.5,-10Zm18.5,30l8,7l0,12l-8,7l-8,-7l-0,-12l8,-7Z" style="fill:#51706e;stroke:#51706e;stroke-width:10px;stroke-linecap:round;stroke-miterlimit:2;"/>
+            <path id="color_021" serif:id="color_02" d="M42.5,21l12.5,10l-0,19l-12.5,11l-11.5,-11l-0,-19l11.5,-10Zm18.5,30l8,7l0,12l-8,7l-8,-7l-0,-12l8,-7Z" style="fill:#7cabab;"/>
+            <path id="color_01" d="M43,28l7.5,6.118l-0,13.764l-7.5,6.118l-7.5,-6.118l-0,-13.764l7.5,-6.118Zm0,5.353l-3.5,2.647l0,10l3.5,3l3.5,-3l0,-10l-3.5,-2.647Zm18,21.647l4,4.5l-0,9l-4,4.5l-4,-4.5l-0,-9l4,-4.5Z" style="fill:#3c7170;"/>
+        </g>
+        <g>
+            <clipPath id="_clip1">
+                <path id="color_011" serif:id="color_01" d="M17,67l-0,-56l66,0l0,56l-19,22l-28,0l-19,-22Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <path d="M57,80l2,12l22,-0l2,-12l16,0l-29,-29l-29,29l16,0Z" style="fill:#1b1b1b;"/>
+            </g>
+            <path id="color_012" serif:id="color_01" d="M61,76l2,12l14,0l2,-12l10,-0l-19,-19l-19,19l10,-0Z" style="fill:#7ac854;"/>
+        </g>
+    </g>
+</svg>

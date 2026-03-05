@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="Empower_Skill"><g><path id="color_02" d="M366.667,145l-0,126.667l-95,95l-126.667,-0l-95,-95l-0,-126.667l95,-95l126.667,-0l95,95Z" style="fill:#694459;"/><path id="color_01" d="M325,161.667l0,93.333l-70,70l-93.333,0l-70,-70l-0,-93.333l70,-70l93.333,-0l70,70Z" style="fill:#7a5265;"/></g><g><clipPath id="_clip1"><path d="M358.333,148.333l0,120l-90,90l-120,0l-90,-90l0,-120l90,-90l120,0l90,90Z"/></clipPath><g clip-path="url(#_clip1)"><g><path id="shadow" d="M337.5,316.523l0,37.644l-258.333,-0l-0,-39.236l70.833,5.902l-62.5,-104.166l66.667,16.666l-12.5,-133.333l66.666,75l31.25,-83.333l22.917,91.666l58.333,-33.333l-33.333,100l45.833,-16.667l-37.5,87.5l41.667,-4.31Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:29.17px;"/><path id="color_021" serif:id="color_02" d="M141.667,100l12.5,133.333l-66.667,-16.666l62.5,104.166l-150,-12.5l0,45.834l416.667,-0l-0,-45.834l-120.834,12.5l37.5,-87.5l-45.833,16.667l33.333,-100l-58.333,33.333l-22.917,-91.666l-31.25,83.333l-66.666,-75Z" style="fill:#945442;"/><path id="color_011" serif:id="color_01" d="M162.5,150l29.167,129.167l-54.167,-25l37.5,100l79.167,-0l50,-91.667l-33.334,4.167l12.5,-75l-33.333,33.333l-8.333,-100l-33.334,70.833l-45.833,-45.833Z" style="fill:#c09874;"/></g><g><path id="shadow1" serif:id="shadow" d="M187.5,221.358l-67.039,-43.536l9.078,-13.978l62.09,40.323l4.204,-0l0,-50l29.167,-0l0,50l5.782,-0l62.091,-40.323l9.077,13.978l-68.617,44.56l0,41.484l42.011,86.134l-25,0l-36.58,-75l-6.351,0l-36.58,75l-25,0l41.667,-85.429l-0,-43.213Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:29.17px;"/><path id="color_012" serif:id="color_01" d="M187.5,221.358l-67.039,-43.536l9.078,-13.978l62.09,40.323l4.204,-0l0,-50l29.167,-0l0,50l5.782,-0l62.091,-40.323l9.077,13.978l-68.617,44.56l0,41.484l42.011,86.134l-25,0l-36.58,-75l-6.351,0l-36.58,75l-25,0l41.667,-85.429l-0,-43.213Z" style="fill:#c6b779;"/><rect x="195.833" y="191.667" width="29.167" height="12.5" style="fill:#a2945a;"/></g></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Empower_Skill">
+        <g>
+            <path id="color_02" d="M88,34.8l0,30.4l-22.8,22.8l-30.4,0l-22.8,-22.8l0,-30.4l22.8,-22.8l30.4,0l22.8,22.8Z" style="fill:#694459;"/>
+            <path id="color_01" d="M78,38.8l0,22.4l-16.8,16.8l-22.4,0l-16.8,-16.8l0,-22.4l16.8,-16.8l22.4,-0l16.8,16.8Z" style="fill:#7a5265;"/>
+        </g>
+        <g>
+            <clipPath id="_clip1">
+                <path d="M86,35.6l0,28.8l-21.6,21.6l-28.8,0l-21.6,-21.6l0,-28.8l21.6,-21.6l28.8,-0l21.6,21.6Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g>
+                    <path id="shadow" d="M81,75.966l0,9.034l-62,-0l0,-9.417l17,1.417l-15,-25l16,4l-3,-32l16,18l7.5,-20l5.5,22l14,-8l-8,24l11,-4l-9,21l10,-1.034Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:7px;"/>
+                    <path id="color_021" serif:id="color_02" d="M34,24l3,32l-16,-4l15,25l-36,-3l0,11l100,0l0,-11l-29,3l9,-21l-11,4l8,-24l-14,8l-5.5,-22l-7.5,20l-16,-18Z" style="fill:#945442;"/>
+                    <path id="color_011" serif:id="color_01" d="M39,36l7,31l-13,-6l9,24l19,0l12,-22l-8,1l3,-18l-8,8l-2,-24l-8,17l-11,-11Z" style="fill:#c09874;"/>
+                </g>
+                <g>
+                    <path id="shadow1" serif:id="shadow" d="M45,53.126l-16.089,-10.449l2.178,-3.354l14.902,9.677l1.009,0l0,-12l7,0l0,12l1.388,0l14.901,-9.677l2.179,3.354l-16.468,10.695l0,9.956l10.083,20.672l-6,0l-8.78,-18l-1.524,0l-8.779,18l-6,0l10,-20.503l0,-10.371Z" style="fill:#1b1b1b;stroke:#1b1b1b;stroke-width:7px;"/>
+                    <path id="color_012" serif:id="color_01" d="M45,53.126l-16.089,-10.449l2.178,-3.354l14.902,9.677l1.009,0l0,-12l7,0l0,12l1.388,0l14.901,-9.677l2.179,3.354l-16.468,10.695l0,9.956l10.083,20.672l-6,0l-8.78,-18l-1.524,0l-8.779,18l-6,0l10,-20.503l0,-10.371Z" style="fill:#c6b779;"/>
+                    <rect x="47" y="46" width="7" height="3" style="fill:#a2945a;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

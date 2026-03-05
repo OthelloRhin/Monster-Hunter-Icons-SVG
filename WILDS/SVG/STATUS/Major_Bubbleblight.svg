@@ -1,1 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="Major_Bubbleblight"><g><circle id="shadow" cx="125" cy="316.667" r="50" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><circle cx="125" cy="316.667" r="50" style="fill:#1b1b1b;"/><circle id="color_02" cx="125" cy="316.667" r="50" style="fill:#6e6e6c;"/><circle id="color_01" cx="125" cy="316.667" r="33.333" style="fill:#f0f0ef;"/></g><path id="shadow1" serif:id="shadow" d="M168.34,213.587c-7.161,2.006 -14.709,3.08 -22.507,3.08c-45.993,-0 -83.333,-37.341 -83.333,-83.334c0,-45.993 37.34,-83.333 83.333,-83.333c45.993,0 83.334,37.34 83.334,83.333c-0,3.688 -0.24,7.32 -0.706,10.882c-29.2,12.727 -51.588,38.199 -60.121,69.372Z" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><path d="M168.34,213.587c-7.161,2.006 -14.709,3.08 -22.507,3.08c-45.993,-0 -83.333,-37.341 -83.333,-83.334c0,-45.993 37.34,-83.333 83.333,-83.333c45.993,0 83.334,37.34 83.334,83.333c-0,3.688 -0.24,7.32 -0.706,10.882c-29.2,12.727 -51.588,38.199 -60.121,69.372Z" style="fill:#1b1b1b;"/><g><clipPath id="_clip1"><path d="M416.667,0l-0,416.667l-416.667,-0l0,-416.667l416.667,0Zm-145.834,135.417c-58.641,-0 -106.25,47.609 -106.25,106.25c0,58.641 47.609,106.25 106.25,106.25c58.641,-0 106.25,-47.609 106.25,-106.25c0,-58.641 -47.609,-106.25 -106.25,-106.25Z"/></clipPath><g clip-path="url(#_clip1)"><circle id="color_021" serif:id="color_02" cx="145.833" cy="133.333" r="83.333" style="fill:#6e6e6c;"/><circle id="color_011" serif:id="color_01" cx="145.833" cy="133.333" r="66.667" style="fill:#f0f0ef;"/></g></g><g><circle id="shadow2" serif:id="shadow" cx="270.833" cy="241.667" r="83.333" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><circle cx="270.833" cy="241.667" r="83.333" style="fill:#1b1b1b;"/><circle id="color_022" serif:id="color_02" cx="270.833" cy="241.667" r="83.333" style="fill:#6e6e6c;"/><circle id="color_012" serif:id="color_01" cx="270.833" cy="241.667" r="66.667" style="fill:#f0f0ef;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Major_Bubbleblight">
+        <g>
+            <circle id="shadow" cx="30" cy="76" r="12" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+            <circle cx="30" cy="76" r="12" style="fill:#1b1b1b;"/>
+            <circle id="color_02" cx="30" cy="76" r="12" style="fill:#6e6e6c;"/>
+            <circle id="color_01" cx="30" cy="76" r="8" style="fill:#f0f0ef;"/>
+        </g>
+        <path id="shadow1" serif:id="shadow" d="M40.402,51.261c-1.719,0.481 -3.531,0.739 -5.402,0.739c-11.038,0 -20,-8.962 -20,-20c0,-11.038 8.962,-20 20,-20c11.038,0 20,8.962 20,20c0,0.885 -0.058,1.757 -0.169,2.612c-7.008,3.054 -12.382,9.167 -14.429,16.649Z" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+        <path d="M40.402,51.261c-1.719,0.481 -3.531,0.739 -5.402,0.739c-11.038,0 -20,-8.962 -20,-20c0,-11.038 8.962,-20 20,-20c11.038,0 20,8.962 20,20c0,0.885 -0.058,1.757 -0.169,2.612c-7.008,3.054 -12.382,9.167 -14.429,16.649Z" style="fill:#1b1b1b;"/>
+        <g>
+            <clipPath id="_clip1">
+                <path d="M100,0l0,100l-100,0l0,-100l100,0Zm-35,32.5c-14.074,-0 -25.5,11.426 -25.5,25.5c-0,14.074 11.426,25.5 25.5,25.5c14.074,-0 25.5,-11.426 25.5,-25.5c-0,-14.074 -11.426,-25.5 -25.5,-25.5Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <circle id="color_021" serif:id="color_02" cx="35" cy="32" r="20" style="fill:#6e6e6c;"/>
+                <circle id="color_011" serif:id="color_01" cx="35" cy="32" r="16" style="fill:#f0f0ef;"/>
+            </g>
+        </g>
+        <g>
+            <circle id="shadow2" serif:id="shadow" cx="65" cy="58" r="20" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+            <circle cx="65" cy="58" r="20" style="fill:#1b1b1b;"/>
+            <circle id="color_022" serif:id="color_02" cx="65" cy="58" r="20" style="fill:#6e6e6c;"/>
+            <circle id="color_012" serif:id="color_01" cx="65" cy="58" r="16" style="fill:#f0f0ef;"/>
+        </g>
+    </g>
+</svg>

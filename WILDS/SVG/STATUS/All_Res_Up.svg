@@ -1,1 +1,27 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="All_Res_Up"><path id="glow" d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,0l-75,-87.5Z" style="fill:none;stroke:#aef786;stroke-width:50px;"/><path d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,0l-75,-87.5Z" style="fill:#aef786;"/><path id="shadow" d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,0l-75,-87.5Z" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><path d="M79.167,275l-0,-220.833l258.333,-0l0,220.833l-75,87.5l-108.333,0l-75,-87.5Z" style="fill:#1b1b1b;"/><g><clipPath id="_clip1"><path d="M79.167,275l-0,-220.833l258.333,-0l-0,220.833l-75,87.5l-108.333,0l-75,-87.5Z"/></clipPath><g clip-path="url(#_clip1)"><rect id="background" x="79.167" y="54.167" width="258.333" height="308.333" style="fill:#c3bdb1;"/><path id="thunder" d="M-0,217.404l133.333,-0.737l0,33.333l50,45.833l16.667,0l-0,120.834l-200,-0l-0,-199.263Z" style="fill:#a19362;"/><path id="dragon" d="M416.667,217.404l-133.334,-0.737l0,33.333l-50,45.833l-16.666,0l-0,120.834l200,-0l-0,-199.263Z" style="fill:#837b94;"/><path id="ice" d="M283.333,120.833l-66.666,0l-0,-120.833l200,0l-0,200l-133.334,0l0,-79.167Z" style="fill:#7e9a98;"/><path id="water" d="M133.333,120.833l66.667,0l0,-120.833l-200,0l0,200l133.333,0l0,-79.167Z" style="fill:#6280a1;"/><path id="fire" d="M150,241.667l-0,-104.167l116.667,-0l-0,104.167l-41.667,37.5l-33.468,-0l-41.532,-37.5Z" style="fill:#9c7373;"/></g></g><g><path id="color_02" d="M162.5,225l12.5,54.167l66.667,-0l12.5,-54.167l45.833,-0l-0,-25l-91.667,-100l-91.666,100l-0,25l45.833,-0Z" style="fill:#333232;"/><path id="color_01" d="M175,208.333l12.5,54.167l41.667,-0l12.5,-54.167l41.666,0l-75,-83.333l-75,83.333l41.667,0Z" style="fill:#7ac955;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="All_Res_Up">
+        <path id="glow" d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z" style="fill:none;stroke:#aef786;stroke-width:12px;"/>
+        <path d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z" style="fill:#aef786;"/>
+        <path id="shadow" d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+        <path d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z" style="fill:#1b1b1b;"/>
+        <g>
+            <clipPath id="_clip1">
+                <path d="M19,66l0,-53l62,0l0,53l-18,21l-26,0l-18,-21Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <rect id="background" x="19" y="13" width="62" height="74" style="fill:#c3bdb1;"/>
+                <path id="thunder" d="M0,52.177l32,-0.177l0,8l12,11l4,0l0,29l-48,0l0,-47.823Z" style="fill:#a19362;"/>
+                <path id="dragon" d="M100,52.177l-32,-0.177l0,8l-12,11l-4,0l0,29l48,0l0,-47.823Z" style="fill:#837b94;"/>
+                <path id="ice" d="M68,29l-16,0l0,-29l48,0l0,48l-32,0l0,-19Z" style="fill:#7e9a98;"/>
+                <path id="water" d="M32,29l16,0l0,-29l-48,0l0,48l32,0l0,-19Z" style="fill:#6280a1;"/>
+                <path id="fire" d="M36,58l-0,-25l28,-0l-0,25l-10,9l-8.032,-0l-9.968,-9Z" style="fill:#9c7373;"/>
+            </g>
+        </g>
+        <g>
+            <path id="color_02" d="M39,54l3,13l16,-0l3,-13l11,-0l-0,-6l-22,-24l-22,24l-0,6l11,-0Z" style="fill:#333232;"/>
+            <path id="color_01" d="M42,50l3,13l10,-0l3,-13l10,-0l-18,-20l-18,20l10,-0Z" style="fill:#7ac955;"/>
+        </g>
+    </g>
+</svg>

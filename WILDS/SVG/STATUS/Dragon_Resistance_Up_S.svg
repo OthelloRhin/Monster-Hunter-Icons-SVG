@@ -1,1 +1,28 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 417 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;"><g id="Dragon_Resistance_Up_S"><path id="glow" d="M320.833,366.667l-166.666,-0l-79.167,-91.667l0,-225l266.667,0l-0,225l-5.793,6.707l34.959,34.96l-41.666,-0l-8.334,50Z" style="fill:none;stroke:#aef786;stroke-width:50px;"/><path d="M320.833,366.667l-166.666,-0l-79.167,-91.667l0,-225l266.667,0l-0,225l-5.793,6.707l34.959,34.96l-41.666,-0l-8.334,50Z" style="fill:#aef786;"/><path id="shadow" d="M320.833,366.667l-166.666,-0l-79.167,-91.667l0,-225l266.667,0l-0,225l-5.793,6.707l34.959,34.96l-41.666,-0l-8.334,50Z" style="fill:none;stroke:#1b1b1b;stroke-width:16.67px;"/><path d="M320.833,366.667l-166.666,-0l-79.167,-91.667l0,-225l266.667,0l-0,225l-5.793,6.707l34.959,34.96l-41.666,-0l-8.334,50Z" style="fill:#1b1b1b;"/><g><path id="color_03" d="M75,275l0,-225l266.667,0l-0,225l-79.167,91.667l-108.333,-0l-79.167,-91.667Z" style="fill:#9b8dcf;"/><path id="color_02" d="M83.333,275l0,-216.667l250,0l0,216.667l-75,83.333l-100,0l-75,-83.333Z" style="fill:#686186;"/><path id="color_01" d="M104.167,262.5l-0,-183.333l208.333,-0l0,183.333l-70.833,75l-66.667,-0l-70.833,-75Z" style="fill:#9b8dcf;"/></g><g id="Dragonblight"><path id="color_031" serif:id="color_03" d="M137.629,195.833l-0.093,-37.5l29.131,-20.833l-0,80.265l20.833,19.681l-0,-120.779l20.845,-23.794l20.822,23.794l-0,120.833l20.833,-19.735l-0,-80.265l29.203,20.833l-0.092,37.5l0.092,0l-0.236,41.667l-47.867,50l-0.049,-0l-0,20.833l-45.412,0l0,-20.833l-47.866,-50l-0.237,-41.667l0.093,0Z" style="fill:#5c547a;stroke:#5c547a;stroke-width:41.67px;stroke-linecap:round;stroke-miterlimit:2;"/><path id="color_021" serif:id="color_02" d="M166.667,195.833l-0,21.932l20.833,19.681l0,-58.279l41.667,-0l-0,58.333l20.833,-19.735l-0,-21.932l29.203,0l-0.236,41.667l-47.867,50l-0.049,-0l-0,20.833l-45.412,0l0,-20.833l-47.866,-50l-0.237,-41.667l29.131,0Z" style="fill:#87809f;"/><path id="color_011" serif:id="color_01" d="M137.639,179.167l-0.103,-20.834l29.131,-20.833l-0,41.667l-29.028,-0Zm49.861,-12.907l0,-49.593l20.845,-23.794l20.822,23.794l-0,49.593l-41.667,-0Zm62.5,12.907l0,-41.667l29.203,20.833l-0.102,20.834l-29.101,-0Z" style="fill:#523e7c;"/></g><g><clipPath id="_clip1"><path id="color_012" serif:id="color_01" d="M70.833,279.167l0,-233.334l275,0l0,233.334l-79.166,91.666l-116.667,0l-79.167,-91.666Z"/></clipPath><g clip-path="url(#_clip1)"><path d="M237.5,333.333l8.333,50l91.667,0l8.333,-50l66.667,0l-120.833,-120.833l-120.834,120.833l66.667,0Z" style="fill:#1b1b1b;"/></g><path id="color_013" serif:id="color_01" d="M254.167,316.667l8.333,50l58.333,-0l8.334,-50l41.666,-0l-79.166,-79.167l-79.167,79.167l41.667,-0Z" style="fill:#7ac854;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Dragon_Resistance_Up_S">
+        <path id="glow" d="M77,88l-40,-0l-19,-22l0,-54l64,-0l0,54l-1.39,1.61l8.39,8.39l-10,-0l-2,12Z" style="fill:none;stroke:#aef786;stroke-width:12px;"/>
+        <path d="M77,88l-40,-0l-19,-22l0,-54l64,-0l0,54l-1.39,1.61l8.39,8.39l-10,-0l-2,12Z" style="fill:#aef786;"/>
+        <path id="shadow" d="M77,88l-40,-0l-19,-22l0,-54l64,-0l0,54l-1.39,1.61l8.39,8.39l-10,-0l-2,12Z" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+        <path d="M77,88l-40,-0l-19,-22l0,-54l64,-0l0,54l-1.39,1.61l8.39,8.39l-10,-0l-2,12Z" style="fill:#1b1b1b;"/>
+        <g>
+            <path id="color_03" d="M18,66l0,-54l64,0l0,54l-19,22l-26,0l-19,-22Z" style="fill:#9b8dcf;"/>
+            <path id="color_02" d="M20,66l0,-52l60,-0l0,52l-18,20l-24,-0l-18,-20Zm5,-2l16,17l18,-0l16,-17l0,-45l-50,-0l0,45Z" style="fill:#686186;"/>
+        </g>
+        <g id="Dragonblight">
+            <path id="color_031" serif:id="color_03" d="M33.031,47l-0.022,-9l6.991,-5l-0,19.264l5,4.723l0,-28.987l5.003,-5.711l4.997,5.711l0,29l5,-4.736l0,-19.264l7.009,5l-0.022,9l0.022,-0l-0.057,10l-11.488,12l-0.012,-0l0,5l-10.899,-0l0,-5l-11.488,-12l-0.056,-10l0.022,-0Z" style="fill:#5c547a;stroke:#5c547a;stroke-width:10px;stroke-linecap:round;stroke-miterlimit:2;"/>
+            <path id="color_021" serif:id="color_02" d="M40,47l0,5.264l5,4.723l0,-13.987l10,-0l0,14l5,-4.736l0,-5.264l7.009,-0l-0.057,10l-11.488,12l-0.012,-0l0,5l-10.899,-0l0,-5l-11.488,-12l-0.056,-10l6.991,-0Z" style="fill:#87809f;"/>
+            <path id="color_01" d="M33.033,43l-0.024,-5l6.991,-5l0,10l-6.967,-0Zm11.967,-3.098l0,-11.902l5.003,-5.711l4.997,5.711l-0,11.902l-10,0Zm15,3.098l0,-10l7.009,5l-0.025,5l-6.984,-0Z" style="fill:#523e7c;"/>
+        </g>
+        <g>
+            <clipPath id="_clip1">
+                <path id="color_011" serif:id="color_01" d="M17,67l-0,-56l66,0l0,56l-19,22l-28,0l-19,-22Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <path d="M57,80l2,12l22,-0l2,-12l16,0l-29,-29l-29,29l16,0Z" style="fill:#1b1b1b;"/>
+            </g>
+            <path id="color_012" serif:id="color_01" d="M61,76l2,12l14,0l2,-12l10,-0l-19,-19l-19,19l10,-0Z" style="fill:#7ac854;"/>
+        </g>
+    </g>
+</svg>
