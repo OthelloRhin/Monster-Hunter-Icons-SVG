@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Head">
+        <path id="shadow" d="M25,35l-2,-2l0,-7l20,-14l22,0l14,12l0,27l-14,14l-1,0l0,14l3,0l3,3l0,6l-40,0l0,-6l3,-3l5,0l0,-10l-2,0l-17,-17l0,-6l6,0l0,-11Z" style="fill:none;stroke:#1b1b1b;stroke-width:4px;"/>
+        <path d="M25,35l-2,-2l0,-7l20,-14l22,0l14,12l0,27l-14,14l-1,0l0,14l3,0l3,3l0,6l-40,0l0,-6l3,-3l5,0l0,-10l-2,0l-17,-17l0,-6l6,0l0,-11Z" style="fill:#1b1b1b;"/>
+        <g>
+            <clipPath id="_clip1">
+                <path d="M79,30l0,1l-4,4l-5,-5l-12,0l-5,5l-28,0l-2,-2l0,-7l5.714,-4l36.286,0l14,8Zm-47.429,-10l11.429,-8l22,0l14,12l0,3l-12,-7l-35.429,0Zm4.429,49l-17,-17l0,-6l38,0l0,-10l3,-3l8,0l4,4l0,5l-4,4l-3,0l-23,23l-6,0Zm29.5,-32c-1.38,0 -2.5,1.12 -2.5,2.5c0,1.38 1.12,2.5 2.5,2.5c1.38,0 2.5,-1.12 2.5,-2.5c0,-1.38 -1.12,-2.5 -2.5,-2.5Zm13.5,1l0,13l-14,14l-13,0l16,-16l2,0l5,-5l0,-6l4,0Zm-15,30l0,9l-26,0l0,-5l6,0l4,-4l16,0Zm-31,11l34,0l3,3l0,6l-4,0l0,-3l-4,0l0,3l-4,0l0,-3l-4,0l0,3l-8,0l0,-3l-4,0l0,3l-4,0l0,-3l-4,0l0,3l-4,0l0,-6l3,-3Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <rect id="white" x="0" y="0" width="100" height="100" style="fill:#fff;"/>
+                <path id="grey--67--" serif:id="grey (67%)" d="M44,74l0,2l-4,0l0,-2l4,0Zm6,0l0,2l-4,0l0,-2l4,0Zm6,0l0,2l-4,0l0,-2l4,0Zm6,0l0,2l-4,0l0,-2l4,0Z" style="fill:#aaa;"/>
+            </g>
+        </g>
+    </g>
+</svg>
